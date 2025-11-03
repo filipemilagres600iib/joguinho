@@ -62,7 +62,7 @@ while (jogando) {
     }
         tentativas++
     }
-
+}
     numTentativas = tentativas < 2 ? "tentativa" : "tentativas";
 
     if (chute === numSecreto) {
@@ -87,4 +87,3 @@ while (jogando) {
             jogarDenovo = prompt("Você quer jogar novamente? Responda com 'sim'ou 'não'.");
         }
     }
-}
