@@ -18,7 +18,7 @@ while (jogando) {
     }
 
     resposta = resposta.toLowerCase();
-
+    
     while (true) {
         if (!jogando) break;
 
