@@ -9,7 +9,7 @@ while (jogando) {
     let tentativas;
 
     alert("BEM-VINDO(A) AO JOGUINHO DO NÚMERO SECRETO!");
-    alert("O jogo consiste em: o pc vai escolher um número de 1 a 1000, e você terá de acertá-lo. A cada tentativa errada, você recebe uma dica se o número secreto é maior ou menor que o número que você chutou. No final, o jogo te dirá quantas tentativas você fez.");
+    alert("O jogo consiste em: o pc vai escolher um número de 1 a 10, e você terá de acertá-lo. A cada tentativa errada, você recebe uma dica se o número secreto é maior ou menor que o número que você chutou. No final, o jogo te dirá quantas tentativas você fez.");
 
     let resposta = prompt("Você está pronto para começar? Responda 'sim' ou 'não':")
 
