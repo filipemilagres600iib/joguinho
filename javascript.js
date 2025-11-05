@@ -1,5 +1,6 @@
 let jogando = true;
 
+
 while (jogando) {
     let chute;
     let numSecreto = parseInt(Math.random() * 100 + 1); //o pc escolhe um número de 1 a 100.
